@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/ibm-logo.png" alt="IBM Logo" width="180"/>
+  <img src="assets/ibm-logo.png" alt="IBM Logo" width="180">
 </p>
+
 
 # IBM Data Science Professional Certificate – Projects & Skills
 
