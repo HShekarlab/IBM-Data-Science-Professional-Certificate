@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2020/05/IBM-Logo.png" alt="IBM Logo" width="180"/>
+  <img src="assets/ibm-logo.png" alt="IBM Logo" width="180"/>
 </p>
 
 # IBM Data Science Professional Certificate – Projects & Skills
 
 [![IBM Data Science Professional Certificate](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-blue?style=for-the-badge)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-This repository contains hands-on projects, exercises, and practical implementations completed as part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).  
+This repository contains hands-on projects, exercises, and practical implementations completed as part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ---
 
@@ -14,7 +14,7 @@ This repository contains hands-on projects, exercises, and practical implementat
 
 - [Course Structure](#-course-structure)  
 - [Skills Acquired](#-skills-acquired)  
-- [Hands-On Projects](#-hands-on-projects)  
+- [Hands-On Projects](#-hands-on-projects)
 
 ---
 
@@ -47,22 +47,22 @@ The certificate consists of **12 courses**:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3A4F76?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)
 
-- 🧹 **Data Cleaning & Preprocessing**  
-- 📊 **Exploratory Data Analysis (EDA)**  
-- 📈 **Data Visualization & Interactive Dashboards**  
-- 🗄️ **SQL and Database Management**  
-- 🤖 **Machine Learning Model Development & Evaluation**  
-- 🐍 **End-to-End Data Science Workflows with Python and related tools**  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Interactive Dashboards  
+- SQL and Database Management  
+- Machine Learning Model Development & Evaluation  
+- End-to-End Data Science Workflows with Python and related tools  
 
 ---
 
 ## 🛠️ Hands-On Projects
 
-- 🔍 Analysis and visualization of real-world datasets  
-- 🏷️ Implementation of Regression and Classification models  
-- ⚡ Use of algorithms such as KNN, Decision Tree, and Logistic Regression  
-- 🎯 Capstone Project: Solving a real-world business problem with data and presenting a complete report  
+- Analysis and visualization of real-world datasets  
+- Implementation of regression and classification models  
+- Use of algorithms such as KNN, Decision Tree, and Logistic Regression  
+- Capstone Project: Solving a real-world business problem with data and presenting a complete report  
 
 ---
 
-All notebooks and code in this repository reflect **practical, hands-on application** of data science concepts learned in the program.
+All notebooks and code in this repository reflect practical, hands-on application of data science concepts learned in the program.
