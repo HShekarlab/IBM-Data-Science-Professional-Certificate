@@ -1,4 +1,4 @@
-# Course 01: What is Data Science? 🚀
+# What is Data Science? 🚀
 
 [![Coursera](https://img.shields.io/badge/Coursera-What%20is%20Data%20Science-blue?style=for-the-badge)](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 
