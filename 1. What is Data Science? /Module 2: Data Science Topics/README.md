@@ -2,6 +2,7 @@
 
 **Platform:** Coursera  
 **Module Duration:** Approximately 2 weeks  
+  
 ---
 
 ## 🔹 Module Overview
