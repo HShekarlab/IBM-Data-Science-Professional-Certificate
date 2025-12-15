@@ -33,9 +33,3 @@ After completing this course, you will be able to:
 - **Jupyter Notebooks and RStudio** provide interactive coding environments for experimentation and visualization  
 - Using **Git and GitHub** is essential for version control, collaboration, and managing reproducible data science projects
 
----
-
-## 📂 Suggested Folder Structure
-
-You can organize your course folder like this:
-
