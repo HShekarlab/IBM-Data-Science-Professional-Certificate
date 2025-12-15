@@ -33,9 +33,3 @@ After completing this course, you will be able to:
 - 🔹 Experienced professionals emphasize **continuous learning, hands-on practice, and problem-solving skills** as keys to success  
 - 🔹 Global demand for data scientists is increasing due to the **explosion of data across industries**
 
----
-
-## 📂 Suggested Folder Structure
-
-You can organize your course folder like this:
-
