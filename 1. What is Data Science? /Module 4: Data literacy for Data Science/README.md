@@ -1,4 +1,4 @@
-# 🧩 Data Science Foundations - Module 4
+# 🧩 Module 4: Data Science Foundations  
 
 **Platform:** Coursera  
 **Module Duration:** Optional Module  
