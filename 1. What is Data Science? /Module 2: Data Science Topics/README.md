@@ -1,4 +1,4 @@
-# 🚀 Data Science Foundations - Module 2
+# 🚀 Module 2: Data Science Foundations  
 
 **Platform:** Coursera  
 **Module Duration:** Approximately 2 weeks  
