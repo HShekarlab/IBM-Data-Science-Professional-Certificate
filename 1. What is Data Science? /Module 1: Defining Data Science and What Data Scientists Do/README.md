@@ -1,4 +1,4 @@
-# 📊 Data Science Foundations - Module 1
+# 📊 Module 1: Data Science Foundations  
 
 **Platform:** Coursera  
 **Module Duration:** Approximately 2 weeks  
