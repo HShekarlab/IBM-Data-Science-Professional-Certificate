@@ -2,9 +2,6 @@
 
 **Course:** Data Science Methodology (Course 3)  
 **Platform:** Coursera  
-**Instructor / Organization:** [Instructor or University Name]  
-**Module Duration:** [Module Duration]  
-**Completion Date:** [Month, Year]  
 
 ---
 
