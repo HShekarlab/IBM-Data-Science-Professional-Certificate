@@ -1,4 +1,4 @@
-# 🚀 Data Science Methodology – Module 3
+# 🚀 Module 3: Data Science Methodology  
 
 **Course:** Data Science Methodology (Course 3)  
 **Platform:** Coursera  
