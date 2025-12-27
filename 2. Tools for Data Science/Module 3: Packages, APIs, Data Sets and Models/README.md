@@ -1,4 +1,4 @@
-# 📦 Tools for Data Science – Module 3
+# 📦 Module 3: Tools for Data Science  
 
 **Course:** Tools for Data Science (Course 2)  
 **Platform:** Coursera  
