@@ -1,4 +1,4 @@
-# 📓 Tools for Data Science – Module 4
+# 📓 Module 4: Tools for Data Science  
 
 **Course:** Tools for Data Science (Course 2)  
 **Platform:** Coursera  
