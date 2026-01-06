@@ -1,4 +1,4 @@
-# 🗄 Databases and SQL for Data Science with Python – Module 1
+# 🗄 Module 1: Databases and SQL for Data Science with Python 
 
 **Course:** Databases and SQL for Data Science with Python (Course 6)  
 **Platform:** Coursera  
