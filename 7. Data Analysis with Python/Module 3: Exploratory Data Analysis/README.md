@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python – Module 3
+# 📊 Module 3: Data Analysis with Python 
 
 **Course:** Data Analysis with Python (Course 7)  
 **Platform:** Coursera  
