@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python – Module 2
+# 📊 Module 2: Data Analysis with Python 
 
 **Course:** Data Analysis with Python (Course 7)  
 **Platform:** Coursera  
