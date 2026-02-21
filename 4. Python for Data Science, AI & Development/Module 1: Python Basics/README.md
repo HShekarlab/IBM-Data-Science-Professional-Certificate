@@ -1,4 +1,4 @@
-# 🐍 Python for Data Science, AI & Development – Module 1
+# 🐍 Module 1: Python for Data Science, AI & Development 
 
 **Course:** Python for Data Science, AI & Development (Course 4)  
 **Platform:** Coursera  
