@@ -1,4 +1,4 @@
-# 📊 Data Visualization with Python – Module 4
+# 📊 Module 4: Data Visualization with Python 
 
 **Course:** Data Visualization with Python (Course 8)  
 **Platform:** Coursera  
