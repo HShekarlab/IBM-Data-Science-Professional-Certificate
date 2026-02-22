@@ -1,4 +1,4 @@
-# 🤖 Machine Learning with Python – Module 3
+# 🤖 Module 3: Machine Learning with Python 
 
 **Course:** Machine Learning with Python (Course 9)  
 **Platform:** Coursera  
