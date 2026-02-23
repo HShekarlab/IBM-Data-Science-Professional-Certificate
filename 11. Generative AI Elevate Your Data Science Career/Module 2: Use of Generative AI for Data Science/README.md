@@ -1,4 +1,4 @@
-# 🤖 Generative AI in Data Science – Module 2
+# 🤖 Module 2: Generative AI in Data Science 
 
 **Course:** Generative AI: Elevate Your Data Science Career (Course 11)  
 **Platform:** Coursera  
