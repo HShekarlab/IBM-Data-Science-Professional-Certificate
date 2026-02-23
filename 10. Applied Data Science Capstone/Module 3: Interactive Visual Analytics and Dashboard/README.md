@@ -1,4 +1,4 @@
-# 🚀 Applied Data Science Capstone – Module 3
+# 🚀 Module 3: Applied Data Science Capstone 
 
 **Course:** Applied Data Science Capstone (Course 10)  
 **Platform:** Coursera  
