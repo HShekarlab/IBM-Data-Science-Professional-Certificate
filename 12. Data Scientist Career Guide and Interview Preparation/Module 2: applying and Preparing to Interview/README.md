@@ -1,4 +1,4 @@
-# 💼 Data Scientist Career Preparation – Module 2
+# 💼 Module 2: Data Scientist Career Preparation 
 
 **Course:** Data Scientist Career Guide and Interview Preparation (Course 12)  
 **Platform:** Coursera  
